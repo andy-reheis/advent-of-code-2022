@@ -6,3 +6,6 @@ Hey there! This is my personal repository for the event 'Advent of Code 2021'. I
 
 - Day 1 (Python)
 - Day 2 (Python)
+- Day 3 (Python)
+- Day 4 (Python)
+- Day 5 (Python)
